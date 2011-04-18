@@ -8,7 +8,7 @@ FileInfo automatically detects the presence of a thumbnail in JPEG files and sho
 
 = Screenshot =
 
-Main Menu
+Main Menu (Advanced)
 
 [http://dl.dropbox.com/u/3086328/fileinfo/fileinfo-menu-thumb.png]
 
