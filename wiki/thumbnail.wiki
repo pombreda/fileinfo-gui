@@ -15,3 +15,5 @@ Main Menu (Advanced)
 Save thumbnail image
 
 [http://dl.dropbox.com/u/3086328/fileinfo/fileinfo-thumb.png]
+
+Go to <a href="http://code.google.com/p/fileinfo-gui/#Screenshot">Main Menu Classic</a>
