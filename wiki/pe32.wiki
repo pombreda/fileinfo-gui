@@ -1,0 +1,15 @@
+#summary One-sentence summary of this page.
+#labels Featured
+
+= PE32 Information =
+
+FileInfo automatically detects the file type PE32 and shows a new entry in the main menu: "PE32 Information". This information helps to analyze malware by identifying possible remote connections and calls DLL.
+
+
+= Screenshot =
+
+Main Menu
+
+[http://dl.dropbox.com/u/3086328/fileinfo/fileinfo-menu-pe32.png]
+
+[http://dl.dropbox.com/u/3086328/fileinfo/fileinfo-pe32.png]
