@@ -3,7 +3,7 @@
 
 = PE32 Information =
 
-FileInfo automatically detects the file type PE32 and shows a new entry in the main menu: "PE32 Information". This information helps to analyze malware by identifying possible remote connections and calls DLL.
+FileInfo automatically detects the file type PE32 and shows a new entry in the main menu: "*PE32 Information*". This information helps to analyze malware by identifying possible remote connections and calls DLL.
 
 
 = Screenshot =
