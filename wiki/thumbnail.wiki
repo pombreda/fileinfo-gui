@@ -12,6 +12,6 @@ Main Menu (Advanced)
 
 [http://dl.dropbox.com/u/3086328/fileinfo/fileinfo-menu-thumb.png]
 
-Save thumbnail
+Save thumbnail image
 
 [http://dl.dropbox.com/u/3086328/fileinfo/fileinfo-thumb.png]
