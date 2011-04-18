@@ -1,0 +1,15 @@
+#summary One-sentence summary of this page.
+#labels Featured
+
+= Thumbnail Information =
+
+FileInfo automatically detects the presence of a thumbnail in JPEG files and shows a new entry in the main menu: "Show Thumbnail". This action allow to extract the thumnail image from JPEG file.
+
+
+= Screenshot =
+
+Main Menu
+
+[http://dl.dropbox.com/u/3086328/fileinfo/fileinfo-menu-thumb.png]
+
+[http://dl.dropbox.com/u/3086328/fileinfo/fileinfo-thumb.png]
