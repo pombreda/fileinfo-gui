@@ -15,3 +15,5 @@ Main Menu (Advanced)
 PE32 Info
 
 [http://dl.dropbox.com/u/3086328/fileinfo/fileinfo-pe32.png]
+
+Go to <a href="http://code.google.com/p/fileinfo-gui/#Screenshot">Main Menu Classic</a>
