@@ -3,7 +3,7 @@
 
 = Thumbnail Information =
 
-FileInfo automatically detects the presence of a thumbnail in JPEG files and shows a new entry in the main menu: "Show Thumbnail". This action allow to extract the thumnail image from JPEG file.
+FileInfo automatically detects the presence of a thumbnail in JPEG files and shows a new entry in the main menu: "*Show Thumbnail*". This action allow to extract the thumnail image from JPEG file.
 
 
 = Screenshot =
