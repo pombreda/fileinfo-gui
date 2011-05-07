@@ -7,6 +7,8 @@ FileInfo automatically *counts objects* to identify *malicious PDF* documents.
 
 = Screenshot =
 
+Objects Counts
+
 [http://dl.dropbox.com/u/3086328/fileinfo/fileinfo-pdfobj-count.png]
 
 = Malicious PDF =
