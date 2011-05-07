@@ -1,13 +1,23 @@
 Show objects information and checking for malicious pdf
 
-= Object Information =
+= Objects Information =
 
-Add your content here.
+FileInfo automatically counts objects to identify malicious PDF documents.
 
 
 = Screenshot =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+[http://dl.dropbox.com/u/3086328/fileinfo/fileinfo-pdfobj-count.png]
+
+= Malicious PDF =
+
+
+= Screenshot =
+
+Main Menu (Advanced)
+
+[http://dl.dropbox.com/u/3086328/fileinfo/fileinfo-menu-pdf-malware.png]
+
+[http://dl.dropbox.com/u/3086328/fileinfo/fileinfo-pdf-malware.png]
+
+Go to <a href="http://code.google.com/p/fileinfo-gui/#Screenshot">Main Menu Classic</a>
