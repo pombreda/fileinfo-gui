@@ -5,7 +5,7 @@ Show objects information and checking for malicious pdf
 FileInfo automatically *counts objects* to identify *malicious PDF* documents.
 
 
-= Screenshot =
+== Screenshot ==
 
 Objects Counts
 
@@ -15,7 +15,7 @@ Objects Counts
 
 References: <a href="http://blog.didierstevens.com/programs/pdf-tools/">Didier Stevens</a>
 
-= Screenshot =
+== Screenshot ==
 
 Main Menu (Advanced)
 
