@@ -11,12 +11,15 @@ FileInfo automatically counts objects to identify malicious PDF documents.
 
 = Malicious PDF =
 
+References: <a href="http://blog.didierstevens.com/programs/pdf-tools/">Didier Stevens</a>
 
 = Screenshot =
 
 Main Menu (Advanced)
 
 [http://dl.dropbox.com/u/3086328/fileinfo/fileinfo-menu-pdf-malware.png]
+
+Malicious Script
 
 [http://dl.dropbox.com/u/3086328/fileinfo/fileinfo-pdf-malware.png]
 
