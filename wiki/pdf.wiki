@@ -2,7 +2,7 @@ Show objects information and checking for malicious pdf
 
 = Objects Information =
 
-FileInfo automatically counts objects to identify malicious PDF documents.
+FileInfo automatically *counts objects* to identify *malicious PDF* documents.
 
 
 = Screenshot =
