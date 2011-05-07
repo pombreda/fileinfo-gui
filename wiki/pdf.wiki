@@ -1,11 +1,11 @@
-#Show objects information and checking for malicious pdf
+Show objects information and checking for malicious pdf
 
-= Introduction =
+= Object Information =
 
 Add your content here.
 
 
-= Details =
+= Screenshot =
 
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
