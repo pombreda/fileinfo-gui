@@ -2,6 +2,8 @@
 
 = Revision list =
 
+|| 0.4|||| 18/05/2011 |||| Changed main menu for pdf file: PDF Malicious. Improved for malicious pdf analysis ||
+
 || 0.3 |||| 07/04/2011 |||| Add new feature for PDF documents: Objects Counts and PDF Malware Analyzer ||
 
 || 0.2 |||| 19/04/2011 |||| Fixed bug when click on folder. Add PE32 Information and Show Thumbnail ||
