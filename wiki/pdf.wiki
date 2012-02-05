@@ -11,7 +11,7 @@ Main Menu (Advanced)
 
 [http://dl.dropbox.com/u/3086328/fileinfo/fileinfo-menu-pdf-malware.png]
 
-Malicious Script
+Malicious elements found in PDF file
 
 [http://dl.dropbox.com/u/3086328/fileinfo/fileinfo-pdf-malware.png]
 
