@@ -1,9 +1,9 @@
 #labels Featured
-PE32 analisys
+Static analisys for PE32 file
 
-= PE32 Information =
+= PE32-Analysis =
 
-FileInfo automatically detects the file type PE32 and shows a new entry in the main menu: "*PE32 Information*". This information helps to analyze malware by identifying possible remote connections and calls DLL.
+FileInfo automatically detects the file type PE32 and shows a new entry in the main menu: "*PE32-Analysis*". This information helps to analyze malware by identifying possible remote connections and calls DLL.
 
 
 = Screenshot =
@@ -16,4 +16,4 @@ PE32 Info
 
 [http://dl.dropbox.com/u/3086328/fileinfo/fileinfo-pe32.png]
 
-Go to <a href="http://code.google.com/p/fileinfo-gui/#Screenshot">Main Menu Classic</a>
+Only from version 0.5, clicking *Ok* you can save the report in text file.
