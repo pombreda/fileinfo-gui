@@ -1,22 +1,9 @@
 #labels Featured
 Show objects information and checking for malicious pdf
 
-= Objects Information =
+= PDF-Analysis =
 
-For PDF files FileInfo shows a new menu with the option *PDF Object*. In addition, FileInfo automatically analyzes the PDF file for *<a href="http://code.google.com/p/fileinfo-gui/wiki/pdf?ts=1304768792&updated=pdf#Malicious_PDF">malicious objects</a>*.
-
-
-== Screenshot ==
-
-Objects Counts
-
-[http://dl.dropbox.com/u/3086328/fileinfo/fileinfo-pdfobj-count.png]
-
-= Malicious PDF =
-
-If malicious objects have been identified, menu will present a new entry: *PDF Malware*
-
-References: <a href="http://blog.didierstevens.com/programs/pdf-tools/">Didier Stevens</a>
+For PDF files FileInfo shows a new menu with the option *PDF-Analysis*. In addition, FileInfo automatically analyzes the PDF file for *malicious objects* and *suspicious code*.
 
 == Screenshot ==
 
@@ -28,4 +15,4 @@ Malicious Script
 
 [http://dl.dropbox.com/u/3086328/fileinfo/fileinfo-pdf-malware.png]
 
-Go to <a href="http://code.google.com/p/fileinfo-gui/#Screenshot">Main Menu Classic</a>
+Only from version 0.5, clicking *Ok* you can save the report in text file.
