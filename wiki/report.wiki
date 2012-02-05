@@ -1,3 +1,7 @@
+You can see this two reports, about malicious file, published on pastebin:
+ * <a href="http://pastebin.com/PZ9dagVM">PE32</a>
+ * <a href="http://pastebin.com/9f6K8jSf">PDF</a>
+
 How to save Report in text file
 
 = Step 1 =
