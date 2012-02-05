@@ -17,3 +17,5 @@ PE32 Info
 [http://dl.dropbox.com/u/3086328/fileinfo/fileinfo-pe32.png]
 
 Only from version 0.5, clicking *Ok* you can <a href="http://code.google.com/p/fileinfo-gui/wiki/report">save the report in text file</a>.
+
+See this report [http://pastebin.com/PZ9dagVM]
