@@ -1,0 +1,19 @@
+How to save Report in text file
+
+= Step 1 =
+
+Click *OK* button
+
+[http://dl.dropbox.com/u/3086328/fileinfo/fileinfo-report_1.png]
+
+= Step 2 =
+
+Click *Yes*
+
+[http://dl.dropbox.com/u/3086328/fileinfo/fileinfo-report_2.png]
+
+= Step 3 =
+
+Select folder and filename, after click on *OK*
+
+[http://dl.dropbox.com/u/3086328/fileinfo/fileinfo-report_3.png]
