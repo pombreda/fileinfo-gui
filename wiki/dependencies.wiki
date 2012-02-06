@@ -1,6 +1,6 @@
 How to manually install the dependencies
 
-= Introduction =
+= How to =
 
 Normally the package installation is automatic. If you have problems you can try to install packages manually:
 
