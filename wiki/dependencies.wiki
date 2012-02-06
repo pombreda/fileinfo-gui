@@ -1,0 +1,9 @@
+How to manually install the dependencies
+
+= Introduction =
+
+Normally the package installation is automatic. If you have problems you can try to install packages manually:
+
+<code>$ sudo apt-get install libimage-exiftool-perl</code>
+<code>$ sudo apt-get install jpegjudge</code>
+<code>$ sduo apt-get install zenity</code>
