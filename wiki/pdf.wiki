@@ -17,4 +17,4 @@ Malicious elements found in PDF file
 
 Only from version 0.5, clicking *Ok* you can <a href="http://code.google.com/p/fileinfo-gui/wiki/report">save the report in text file</a>.
 
-See this report [http://pastebin.com/9f6K8jSf]
+See this report [http://pastebin.com/CCfrfkjm]
