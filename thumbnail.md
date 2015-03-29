@@ -1,0 +1,18 @@
+Show Thumbnails as miniature pictures
+
+# Thumbnail Information #
+
+FileInfo automatically detects the presence of a thumbnail in JPEG files and shows a new entry in the main menu: "**Show Thumbnail**". This action allow to extract the thumnail image from JPEG file.
+
+
+# Screenshot #
+
+Main Menu (Advanced)
+
+![http://dl.dropbox.com/u/3086328/fileinfo/fileinfo-menu-thumb.png](http://dl.dropbox.com/u/3086328/fileinfo/fileinfo-menu-thumb.png)
+
+Save thumbnail image
+
+![http://dl.dropbox.com/u/3086328/fileinfo/fileinfo-thumb.png](http://dl.dropbox.com/u/3086328/fileinfo/fileinfo-thumb.png)
+
+Go to <a href='http://code.google.com/p/fileinfo-gui/#Screenshot'>Main Menu Classic</a>

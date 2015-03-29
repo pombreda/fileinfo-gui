@@ -1,0 +1,15 @@
+# Revision list #
+| 0.5| 05/01/2012 | | Add Report option clicking on Ok, static analysis for PDF and PE32, JPEG Quality in exif data | |
+|:---|:-----------|:|:----------------------------------------------------------------------------------------------|:|
+
+| 0.4| 18/05/2011 | | Changed main menu for pdf file: PDF Malicious. Improved for malicious pdf analysis | |
+|:---|:-----------|:|:-----------------------------------------------------------------------------------|:|
+
+| 0.3 | 07/04/2011 | | Add new feature for PDF documents: Objects Counts and PDF Malware Analyzer | |
+|:----|:-----------|:|:---------------------------------------------------------------------------|:|
+
+| 0.2 | 19/04/2011 | | Fixed bug when click on folder. Add PE32 Information and Show Thumbnail | |
+|:----|:-----------|:|:------------------------------------------------------------------------|:|
+
+| 0.1 | 22/03/2011 | | Start | |
+|:----|:-----------|:|:------|:|
